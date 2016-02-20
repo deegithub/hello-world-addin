@@ -18,13 +18,13 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://github.com/app/read/Home/Home.html"/>
+        <SourceLocation DefaultValue="https://github.com/deegithub/hello-world-addin/app/read/Home/Home.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://github.com/app/compose/Home/Home.html"/>
+        <SourceLocation DefaultValue="https://github.com/deegithub/hello-world-addin/app/compose/Home/Home.html"/>
       </DesktopSettings>
     </Form>
   </FormSettings>
